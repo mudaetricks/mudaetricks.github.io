@@ -1,0 +1,22 @@
+body {
+    background-color: #313338;
+    color: white;
+    font-family: "Ubuntu";
+}
+
+a{
+    color: white;
+}
+.links{
+    color: white;
+    background-color: #5865f2;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+}
+
